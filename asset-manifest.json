@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/utsweb3_17158/static/css/main.69eda509.chunk.css",
-    "main.js": "/utsweb3_17158/static/js/main.07ff7cbe.chunk.js",
-    "main.js.map": "/utsweb3_17158/static/js/main.07ff7cbe.chunk.js.map",
-    "runtime-main.js": "/utsweb3_17158/static/js/runtime-main.705edda6.js",
-    "runtime-main.js.map": "/utsweb3_17158/static/js/runtime-main.705edda6.js.map",
-    "static/css/2.69121389.chunk.css": "/utsweb3_17158/static/css/2.69121389.chunk.css",
-    "static/js/2.b6c3a545.chunk.js": "/utsweb3_17158/static/js/2.b6c3a545.chunk.js",
-    "static/js/2.b6c3a545.chunk.js.map": "/utsweb3_17158/static/js/2.b6c3a545.chunk.js.map",
-    "index.html": "/utsweb3_17158/index.html",
-    "precache-manifest.3e0779db3147fc7b65e0fe0b0416f410.js": "/utsweb3_17158/precache-manifest.3e0779db3147fc7b65e0fe0b0416f410.js",
-    "service-worker.js": "/utsweb3_17158/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/utsweb3_17158/static/css/2.69121389.chunk.css.map",
-    "static/css/main.69eda509.chunk.css.map": "/utsweb3_17158/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.b6c3a545.chunk.js.LICENSE.txt": "/utsweb3_17158/static/js/2.b6c3a545.chunk.js.LICENSE.txt"
+    "main.css": "/utsweb3/static/css/main.69eda509.chunk.css",
+    "main.js": "/utsweb3/static/js/main.e0b90ec1.chunk.js",
+    "main.js.map": "/utsweb3/static/js/main.e0b90ec1.chunk.js.map",
+    "runtime-main.js": "/utsweb3/static/js/runtime-main.9634b335.js",
+    "runtime-main.js.map": "/utsweb3/static/js/runtime-main.9634b335.js.map",
+    "static/css/2.69121389.chunk.css": "/utsweb3/static/css/2.69121389.chunk.css",
+    "static/js/2.b6c3a545.chunk.js": "/utsweb3/static/js/2.b6c3a545.chunk.js",
+    "static/js/2.b6c3a545.chunk.js.map": "/utsweb3/static/js/2.b6c3a545.chunk.js.map",
+    "index.html": "/utsweb3/index.html",
+    "precache-manifest.1dba03525c31dc0ac5e257d77b1083f3.js": "/utsweb3/precache-manifest.1dba03525c31dc0ac5e257d77b1083f3.js",
+    "service-worker.js": "/utsweb3/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/utsweb3/static/css/2.69121389.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/utsweb3/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.b6c3a545.chunk.js.LICENSE.txt": "/utsweb3/static/js/2.b6c3a545.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.705edda6.js",
+    "static/js/runtime-main.9634b335.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.b6c3a545.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.07ff7cbe.chunk.js"
+    "static/js/main.e0b90ec1.chunk.js"
   ]
 }
